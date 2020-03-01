@@ -17,7 +17,7 @@ Para este circuito se disponen solo de memorias EEPROM 4kx8 para en banco de mem
 ## TABLA DE DIRECCIONAMIENTO 
 Esta tabla muestra el direccionamiento de todas la memorias y como están ubicadas en el banco de memoria.
 
-A15	A14	A13	A12	A11	A10	A09	A08	A07	A06	A05	A04	A03	A02	A01	A0	HEXA	MEMORIA
+A15|	A14|	A13|	A12|	A11|	A10|	A09|	A08|	A07|	A06|	A05|	A04|	A03|	A02|	A01|	A0|	HEXA|	MEMORIA
 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0X0000	MEMORIA
 RAM
 0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0X07FF	
